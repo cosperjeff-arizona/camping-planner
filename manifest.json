@@ -1,0 +1,16 @@
+{
+  "name": "Stoneman Lake Camping Planner",
+  "short_name": "Camp Plan",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3498db",
+  "description": "A simple planner for the Stoneman Lake camping trip.",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
