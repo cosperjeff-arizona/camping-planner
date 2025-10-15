@@ -1,7 +1,8 @@
-const CACHE_NAME = 'camping-planner-v1';
+const CACHE_NAME = 'camping-planner-v2';
 const urlsToCache = [
   '/camping-planner/',
   '/camping-planner/index.html',
+  '/camping-planner/shopping_list.html',
   '/camping-planner/equipment_checklist.html',
   '/camping-planner/meal_plan.html',
   '/camping-planner/route_and_timing.html',
